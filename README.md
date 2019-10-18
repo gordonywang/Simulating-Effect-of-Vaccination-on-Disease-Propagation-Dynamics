@@ -1,5 +1,5 @@
 # Uncertainty-and-Risk-Modeling-Term-Project
-Term Project | 70-462: Uncertainty and Risk Modeling
+Term Project | 70-462: Uncertainty and Risk Modeling | Spring 2019
 
 •	Modeled probablistically and simulated as team of 3 epidemic disease propagation dynamics in Microsoft Excel using Palisade Corp.'s @RISK add-in to investigate vaccine effectiveness for health department of hypothetical city with 100,000 residents.
 
