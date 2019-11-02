@@ -1,4 +1,4 @@
-# Uncertainty-and-Risk-Modeling-Term-Project
+# Simulating-Effect-of-Vaccination-on-Disease-Propagation-Dynamics
 Term Project | 70-462: Uncertainty and Risk Modeling | Spring 2019
 
 •	Simulated and modeled stochastically as team of 3 epidemic disease propagation dynamics in Microsoft Excel spreadsheet using Palisade Corp.'s @RISK add-in to investigate vaccine effectiveness for health department of hypothetical city with 100,000 residents.
