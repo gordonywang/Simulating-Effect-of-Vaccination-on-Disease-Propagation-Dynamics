@@ -6,8 +6,8 @@ Term Project | 70-462: Uncertainty and Risk Modeling | Spring 2019
 •	Synthesized analysis, results, and insights into 12-page report and 13-minute group presentation to 30 students. 
 
 
-PDF file contains Final Report for term project.
+PDF file contains Final Report for project.
 
-Excel file contains spreadsheet of formulae used to run the simulation (Note: MUST have installed @RISK add-in from Palisade Corp.)
+Excel file has spreadsheet containing simulation model formulae (Note: MUST have installed @RISK add-in from Palisade Corp.)
 
 Powerpoint file contains the presentation slides for this project.
